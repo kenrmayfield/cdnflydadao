@@ -1,3 +1,10 @@
+Monitor Node Status: Check if servers are online, offline, or experiencing issues.<br>
+View Performance Metrics: Traffic, request rates, CPU/memory usage, logs, and errors.<br>
+Control Nodes Remotely: Restart, stop, or update individual CDN servers directly from the dashboard.<br>
+Configure Settings: Modify configurations such as cache, monitoring parameters, or network settings.<br>
+Add or Remove Nodes: Easily add new CDN servers or remove existing ones.<br>
+View Logs & Alerts: Access logs, error reports, and system alerts for troubleshooting.
+
 Update notes: Updated main controller to version v5.1.13.
 Thanks to my cousin for providing the controller and node servers. This is an advertisement.
 
